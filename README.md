@@ -10,7 +10,7 @@ Small Python project scaffolded with Poetry that uses `wallapy` to query Wallapo
 
 ## Requirements
 
-- Python 3.10+ (or whatever you set in `pyproject.toml`)
+- Python 3.12+ (as set in `pyproject.toml`)
 - Poetry installed
 
 ## Quickstart
